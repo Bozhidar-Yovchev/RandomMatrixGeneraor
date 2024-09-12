@@ -1,0 +1,7 @@
+D:\Projects - GitHub\RandomMatrixGeneraor\bin\Debug\RandomMatrixGeneraor.exe.config
+D:\Projects - GitHub\RandomMatrixGeneraor\bin\Debug\RandomMatrixGeneraor.exe
+D:\Projects - GitHub\RandomMatrixGeneraor\bin\Debug\RandomMatrixGeneraor.pdb
+D:\Projects - GitHub\RandomMatrixGeneraor\obj\Debug\RandomMatrixGeneraor.csproj.AssemblyReference.cache
+D:\Projects - GitHub\RandomMatrixGeneraor\obj\Debug\RandomMatrixGeneraor.csproj.CoreCompileInputs.cache
+D:\Projects - GitHub\RandomMatrixGeneraor\obj\Debug\RandomMatrixGeneraor.exe
+D:\Projects - GitHub\RandomMatrixGeneraor\obj\Debug\RandomMatrixGeneraor.pdb
