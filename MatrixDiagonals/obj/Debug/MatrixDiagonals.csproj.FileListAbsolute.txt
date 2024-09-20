@@ -1,7 +1,0 @@
-D:\Projects - GitHub\MatrixDiagonals\bin\Debug\MatrixDiagonals.exe.config
-D:\Projects - GitHub\MatrixDiagonals\bin\Debug\MatrixDiagonals.exe
-D:\Projects - GitHub\MatrixDiagonals\bin\Debug\MatrixDiagonals.pdb
-D:\Projects - GitHub\MatrixDiagonals\obj\Debug\MatrixDiagonals.csproj.AssemblyReference.cache
-D:\Projects - GitHub\MatrixDiagonals\obj\Debug\MatrixDiagonals.csproj.CoreCompileInputs.cache
-D:\Projects - GitHub\MatrixDiagonals\obj\Debug\MatrixDiagonals.exe
-D:\Projects - GitHub\MatrixDiagonals\obj\Debug\MatrixDiagonals.pdb

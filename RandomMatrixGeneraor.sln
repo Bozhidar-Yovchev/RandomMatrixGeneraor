@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.34407.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomMatrixGeneraor", "RandomMatrixGeneraor.csproj", "{271B7F69-78B6-425A-BD42-EC9510711F1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDiagonals", "..\MatrixDiagonals\MatrixDiagonals.csproj", "{8CDC696E-5DD3-4368-BE9A-F986AF99C5CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDiagonals", "..\MatrixDiagonals\MatrixDiagonals.csproj", "{26B9F287-A857-4C05-82FD-3EC4433C0A28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{271B7F69-78B6-425A-BD42-EC9510711F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271B7F69-78B6-425A-BD42-EC9510711F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271B7F69-78B6-425A-BD42-EC9510711F1F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8CDC696E-5DD3-4368-BE9A-F986AF99C5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CDC696E-5DD3-4368-BE9A-F986AF99C5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8CDC696E-5DD3-4368-BE9A-F986AF99C5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8CDC696E-5DD3-4368-BE9A-F986AF99C5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B9F287-A857-4C05-82FD-3EC4433C0A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B9F287-A857-4C05-82FD-3EC4433C0A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B9F287-A857-4C05-82FD-3EC4433C0A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B9F287-A857-4C05-82FD-3EC4433C0A28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
